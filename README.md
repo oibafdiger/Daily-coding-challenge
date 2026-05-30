@@ -35,4 +35,4 @@ Kein Framework, kein Overhead – reines Python, klare Logik.
 
 ## Kursquelle
 
-[freeCodeCamp – Daily Coding Challenges](https://www.freecodecamp.org)
+[freeCodeCamp – Daily Coding Challenges](https://www.freecodecamp.org/learn/daily-coding-challenge/archive)
